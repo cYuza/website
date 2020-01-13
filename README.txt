@@ -1,0 +1,2 @@
+Dies ist keine vollständige, funktionierende Seite.
+Sie ist lediglich als Projekt anzusehen und nicht als Informationsquelle; daher auch nur nach Funktionsweisen angepasst, aber uA. nicht jedem Hyperlink ein Anker zugewiesen, sowie  Textboxen freigelassen, um die Funktionsweise der HTML-commands darzustellen, aber nicht einem weiteren Zweck zuzuordnen. Die Daten und Waffen sprites wurden von Lean via http://leanny.github.io/ bereitgestellt und https://splatoonwiki.org/wiki/Weapon galt als Referenz und Bilderquelle.
